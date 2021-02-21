@@ -1,0 +1,26 @@
+public class teste { 
+    public static void main(String[] args) 
+    { 
+        int teste1 = 112;     // Int literal 
+        float teste2 = 31.10;     // Float literal 
+        char teste3 = 'IFCE' // char literal 
+        String teste4 = "Teste"; // String literal 
+        boolean teste5 = true; // Boolean literal 
+        char[] JavaCharArray = new char[5];
+        JavaCharArray[0] = 'r';
+        JavaCharArray[2] = 's';
+        JavaCharArray[2] = 't';
+        JavaCharArray[3] = 'u';
+ 
+        System.out.println(teste1); //112
+        System.out.println(teste2); //31.40
+        System.out.println(teste3); //IFCE
+        System.out.println(teste4); //Teste
+        System.out.println(teste5); //true
+
+        /* comentario */
+
+        ?
+ 
+    } 
+}
